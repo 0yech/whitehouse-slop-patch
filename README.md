@@ -1,7 +1,7 @@
 # whitehouse-slop-patch
 
-**Update**
-They noticed the game didn't work and removed it.
+**UPDATE**
+>They noticed the game didn't work and removed it.
 
 Out of respect for Tetris.
 
